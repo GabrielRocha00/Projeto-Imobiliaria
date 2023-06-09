@@ -1,0 +1,179 @@
+body{
+    margin: 20px;
+}
+a,h1, h2, p, li, ol{ 
+    font-family: tahoma;
+}
+
+
+/* SEÇAO SOBRE*/
+.secao-sobre{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: #afddfb;
+}
+
+.logo{
+    width: 150px;
+}
+
+nav ul a{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0 10px;
+    font-size: 18px;
+    color: #1d1d1d;
+}
+
+
+p{
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+
+}
+
+span, .blue{
+    font-weight: bold;
+    color: rgb(0, 162, 255);
+}
+
+span, .yellow{
+    font-weight: bold;
+    color: rgba(255, 208, 0, 0.979);
+}
+
+
+
+/* SECAO IMAGEM CASA*/
+.secao-2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+
+
+
+/*SEÇAO HISTORIA IMOBILIARIA*/
+.secao-3{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.secao-3 h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.secao-3 h2{
+    color: #1c81c0;
+}
+
+.secao-3 p{
+    text-align: center;
+}
+
+.secao-3 img{
+    width: 450px;
+}
+
+
+/*SECAO SERVIÇOS*/
+.secao-4{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: #1d80c1;
+    color:white;
+      
+}
+
+.secao-4 p {
+    text-align: center;
+
+}
+
+.linhas{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 135px;
+    color: white;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+   
+}
+
+
+
+/*SECAO CORRETORES*/
+.secao-5{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.secao-5 h2{
+    color: #1c81c0;
+}
+
+.secao-5 img{
+    width: 450px;
+}   
+
+.secao-5 p{
+    text-align: center;
+}
+
+
+/*SECAO CONTATO*/
+.secao-6{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    background-color: #1d80c1;
+}
+
+.secao-6 h2{
+    color: white;
+}
+
+.secao-6 p{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.linha-contato{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 210px;
+
+}
+
+.linha-contato ol{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: white;
+    color: #1d80c1;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+    
+}
